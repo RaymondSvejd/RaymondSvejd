@@ -4,9 +4,9 @@ Welcome to my GitHub profile! I'm a high school teacher with a love for Modellin
 
 ## About Me
 
-- I've been teaching for over 10 years, specializing in C++, 3D modeling, and game engines.
-- I primarily use SFML (Simple and Fast Multimedia Library) for teaching C++ to my students. The easy visuals make it intuitive and fun for them.
-- Currently, I’m focusing on integrating AI into education at my school, both theoretically and practically.
+I've been teaching for over 10 years, specializing in C++, 3D modeling, and game engines.
+I primarily use SFML (Simple and Fast Multimedia Library) for teaching C++ to my students. The easy visuals make it intuitive and fun for them.
+Currently, I’m focusing on integrating AI into education at my school, both theoretically and practically.
 
 ## My Interests
 
